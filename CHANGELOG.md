@@ -1,3 +1,21 @@
+## v1.3.1
+
+### Dependencies
+
+- bump esbuild peerDependencies from ^0.10.0 to 0.x
+
+## v1.3.0
+
+### Features
+
+- Add ability to use electron-esbuild without a renderer
+
+## v1.2.5
+
+### Dependencies
+
+- Upgrade to esbuild v0.10.0
+
 ## v1.2.4
 
 ### Bug fixes
